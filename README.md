@@ -6,7 +6,7 @@ Hi all ! We are a team of honeyman1 do various smart contracts to order, also th
 
 ▪️ My Telegram Channel: [@honeyman1_community](https://t.me/honeyman1_community)
 
- Regards, [@honeyman1 ](https://t.me/honeyman1)🖤
+▪️ Regards, [@honeyman1 ](https://t.me/honeyman1)🖤
 
 
 ------------------------------------------------

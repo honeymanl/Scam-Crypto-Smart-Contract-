@@ -1,4 +1,13 @@
-Hi all ! We are a team of honeyman1 do various smart contracts to order, also there are a lot of ready-made smart contracts for your needs, mainly this (honeypot (different types), rugpull, proxy contract, etc) Of the ready-made, we have from the usual skam contracts to proxy skam contracts, etc., as well we do smart contracts to order (absolutely any) We give full instructions how to work with it and full support 24/7, that's why any of you can create your own token or project.) Also the contracts are fresh, on the latest versions of Solidity. If you have any questions, please contact us on Telegram @honeyman1. There you will learn more about everything.
+Hi there!
+We are the Honeyman1 team, and we are in the business of creating various smart contracts for your needs.
+We also have a large selection of ready-made smart contracts, including honeypot (different versions), rugpull, proxy contract and others..
+
+Our team offers not only smart contracts, but also full 24/7 support and detailed instructions on how to use the contracts. Thanks to this, each of our customers can easily create their own token or project.
+All our contracts are made on the latest versions of Solidity and we always keep track of new trends and changes in the blockchain industry to provide our clients with only the most relevant solutions.
+
+We also make unique and different custom smart contracts that are perfect for your needs.
+
+If you have any questions please contact us on Telegram [@honeyman1](https://t.me/honeyman1). There you will learn more about everything.
 
 ------------------------------------------------
 
